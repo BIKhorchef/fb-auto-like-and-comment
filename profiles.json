@@ -1,0 +1,11 @@
+{
+    "profiles": [
+        {
+            "user": "user1",
+            "chrome_user_data_dir": "C:\\Users\\badrk\\AppData\\Local\\Google\\Chrome for Testing\\User Data",
+            "profile_directory": "Default",
+            "executable_path": "C:\\Chrome\\chromedriver-win64\\chromedriver.exe",
+	        "binary_location": "C:\\Chrome\\chrome-win64\\chrome.exe"
+        }
+    ]
+}
