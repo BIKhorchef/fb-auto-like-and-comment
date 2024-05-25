@@ -5,7 +5,13 @@
             "chrome_user_data_dir": "C:\\Users\\badrk\\AppData\\Local\\Google\\Chrome for Testing\\User Data",
             "profile_directory": "Default",
             "executable_path": "C:\\Chrome\\chromedriver-win64\\chromedriver.exe",
-	        "binary_location": "C:\\Chrome\\chrome-win64\\chrome.exe"
+	        "binary_location": "C:\\Chrome\\chrome-win64\\chrome.exe",
+            "proxy_host": "rproxy",
+            "proxy_port": "9000",
+            "proxy_user": "proxy",
+            "proxy_pass": "proxy;",
+            "expected_country": "BE",
+            "expected_city": "brussels"
         }
     ]
 }

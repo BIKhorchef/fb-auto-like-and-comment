@@ -31,6 +31,7 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+*.json
 
 # Installer logs
 pip-log.txt
@@ -57,6 +58,7 @@ cover/
 
 # Django stuff:
 *.log
+*.json
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -121,9 +123,9 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.menv
 env/
-venv/
+menv/
 ENV/
 env.bak/
 venv.bak/
